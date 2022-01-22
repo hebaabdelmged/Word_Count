@@ -1,0 +1,1 @@
+This is a python program reads a file and counts the no. of times each word apears in that file , then stores the output in another file.

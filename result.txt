@@ -1,0 +1,23 @@
+this : 1
+is : 1
+a : 2
+python : 1
+program : 1
+reads : 1
+file : 3
+and : 1
+counts : 1
+the : 2
+no : 1
+of : 1
+times : 1
+each : 1
+word : 1
+apears : 1
+in : 2
+that : 1
+then : 1
+stores : 1
+output : 1
+another : 1
+____________________
